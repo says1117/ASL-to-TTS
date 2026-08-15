@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.vscode/
+
+# Large dataset files
+asl_alphabet_train/
+asl_alphabet_test/archive/
+assets/data/asl_landmarks_kaggle.csv
+.env
